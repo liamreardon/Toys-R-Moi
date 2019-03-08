@@ -2,3 +2,12 @@
 
 # Toys-R-Moi
 > Inventory tracking app for a toy store which persists data using only plists.
+
+- Add toy to shopping list (Name, Brand, Price & Additional Notes)
+- View all shoppling list items
+- Tap a cell to view toy details
+
+### Author
+
+**Liam Reardon**
+
