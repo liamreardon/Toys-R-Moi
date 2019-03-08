@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>toyImage</key>
+		<string></string>
+		<key>toyName</key>
+		<string>Nintendo 64</string>
+		<key>toyBrand</key>
+		<string>Nintendo</string>
+		<key>toyPrice</key>
+		<string>$199.99</string>
+		<key>dateCreated</key>
+		<date>2018-10-28T16:52:12Z</date>
+		<key>additionalInfo</key>
+		<string>Best video game console</string>
+	</dict>
+	<dict>
+		<key>toyImage</key>
+		<string></string>
+		<key>toyName</key>
+		<string>DJI Mavic Pro Drone</string>
+		<key>toyBrand</key>
+		<string>DJI</string>
+		<key>toyPrice</key>
+		<string>$987.00</string>
+		<key>dateCreated</key>
+		<date>2018-10-28T16:52:15Z</date>
+		<key>additionalInfo</key>
+		<string>Pro drone with 4K camera</string>
+	</dict>
+	<dict>
+		<key>toyImage</key>
+		<string></string>
+		<key>toyName</key>
+		<string>LEGO Technic Bugatti Chiron</string>
+		<key>toyBrand</key>
+		<string>Lego</string>
+		<key>toyPrice</key>
+		<string>$399.99</string>
+		<key>dateCreated</key>
+		<date>2018-10-28T16:54:13Z</date>
+		<key>additionalInfo</key>
+		<string>Bugatti Chiron lego set</string>
+	</dict>
+	<dict>
+		<key>toyImage</key>
+		<string></string>
+		<key>toyName</key>
+		<string>Wheelster Classic Hoverboard</string>
+		<key>toyBrand</key>
+		<string>Wheelster</string>
+		<key>toyPrice</key>
+		<string>$199.00</string>
+		<key>dateCreated</key>
+		<date>2018-10-28T16:54:11Z</date>
+		<key>additionalInfo</key>
+		<string>6.5 inch hoverboard in jet black</string>
+	</dict>
+</array>
+</plist>
